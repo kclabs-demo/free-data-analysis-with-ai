@@ -16,17 +16,17 @@ This is a public demo repository for a KC Labs AI YouTube video on free data ana
 ## Directory Structure
 
 ```
-├── .internal/          # Internal-only files (not published)
-├── analysis/           # Data analysis projects
-│   └── <project>/
-│       ├── sql/           # SQL scripts
-│       ├── python/        # Python scripts
-│       ├── results/      # Analysis outputs
-│       └── README.md     # Project documentation
-├── data/               # Sample data files
-├── notebooks/          # Jupyter notebooks
-├── src/                # Source code
-└── README.md           # This file
+├── .internal/              # Internal-only files (not published)
+├── analysis/               # Data analysis projects
+│   ├── language-reputation/     # Language vs SO reputation analysis
+│   └── stackoverflow-question-count/  # Dataset scale verification
+├── example_workflow/
+│   └── AGENTS.md           # Sample AGENTS.md for viewers
+├── images/                 # Diagrams (Excalidraw + PNG)
+├── instructions/
+│   └── setup_guide.md      # Condensed 8-step setup guide
+├── AGENTS.md               # This file
+└── README.md               # Public guide
 ```
 
 ## Analysis Project Structure
