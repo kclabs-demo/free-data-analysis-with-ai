@@ -2,6 +2,10 @@
 
 > IMPORTANT: Everything in this repo is public-facing, so do not place any sensitive info here and make sure to distinguish between what should be internal-facing info (e.g. secrets, PII, recording guides/scripts), and public-facing info (instructions, how-to guides, actual code utilized). If there is information that Claude Code needs across sessions but should not be published, put it in the `.internal/` folder which is ignored by git per the `.gitignore`.
 
+> **Claude Code**: If `.internal/OWNER_CONFIG.md` exists, read it at the start of each session and use those concrete values (org URLs, resource names, emails) for all commands. This avoids resolving `$ENV_VAR` references or guessing placeholder values.
+>
+> **Viewers cloning this repo**: Create your own `.internal/OWNER_CONFIG.md` with your personal values (GCP project ID, GitHub username). Then update `.env` with your credentials (see `.env.example` if available). The analysis scripts and patterns all work out of the box.
+
 ## Project Context
 
 This is a public demo repository for a KC Labs AI YouTube video on free data analysis with AI.
