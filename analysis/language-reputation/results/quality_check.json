@@ -1,0 +1,65 @@
+{
+  "timestamp": "2026-03-17T18:42:46.102898",
+  "table": "lively-armor-490600-n2.analysis.language_reputation_single_tag",
+  "total_checks": 8,
+  "passed": 8,
+  "failed": 0,
+  "checks": [
+    {
+      "name": "table_row_count",
+      "passed": true,
+      "expected": "> 0",
+      "actual": 893,
+      "message": "Table has 893 rows"
+    },
+    {
+      "name": "no_null_tags",
+      "passed": true,
+      "expected": 0,
+      "actual": 0,
+      "message": "Null tags count: 0"
+    },
+    {
+      "name": "no_null_reputation",
+      "passed": true,
+      "expected": "0 for all",
+      "actual": "avg:0, median:0",
+      "message": "Null reputation values - avg: 0, median: 0"
+    },
+    {
+      "name": "filter_min_users",
+      "passed": true,
+      "expected": ">= 100",
+      "actual": 100,
+      "message": "Minimum unique users: 100"
+    },
+    {
+      "name": "no_negative_reputation",
+      "passed": true,
+      "expected": 0,
+      "actual": 0,
+      "message": "Negative reputation count: 0"
+    },
+    {
+      "name": "tags_trimmed",
+      "passed": true,
+      "expected": 0,
+      "actual": 0,
+      "message": "Untrimmed tags: 0"
+    },
+    {
+      "name": "no_duplicate_tags",
+      "passed": true,
+      "expected": 0,
+      "actual": 0,
+      "message": "Duplicate tags: 0"
+    },
+    {
+      "name": "top5_sanity_check",
+      "passed": true,
+      "expected": "all > 0",
+      "actual": "open-source:28117.730769230777, filemaker:27097.53603603603, scons:24491.55284552846, user-interface:24190.95675675676, coding-style:23864.832298136644",
+      "message": "Top 5 languages: [('open-source', 28117.730769230777), ('filemaker', 27097.53603603603), ('scons', 24491.55284552846), ('user-interface', 24190.95675675676), ('coding-style', 23864.832298136644)]"
+    }
+  ]
+}

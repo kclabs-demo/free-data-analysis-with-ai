@@ -1,0 +1,508 @@
+{
+  "generated_at": "2026-03-17T18:29:24.251274",
+  "filter": "users.reputation >= 100",
+  "min_unique_users": 100,
+  "total_languages": 50,
+  "results": [
+    {
+      "tag": "css|xhtml",
+      "unique_users": 111,
+      "question_count": 227,
+      "avg_reputation": 73465.36,
+      "median_reputation": 16275,
+      "min_reputation": 103,
+      "max_reputation": 466549,
+      "stddev_reputation": 90376.82
+    },
+    {
+      "tag": "c++|c++11|language-lawyer",
+      "unique_users": 131,
+      "question_count": 187,
+      "avg_reputation": 57695.06,
+      "median_reputation": 10143,
+      "min_reputation": 183,
+      "max_reputation": 485622,
+      "stddev_reputation": 106856.14
+    },
+    {
+      "tag": "c|language-lawyer",
+      "unique_users": 104,
+      "question_count": 151,
+      "avg_reputation": 48302.13,
+      "median_reputation": 13868,
+      "min_reputation": 111,
+      "max_reputation": 485622,
+      "stddev_reputation": 73464.44
+    },
+    {
+      "tag": "c#|linq|collections",
+      "unique_users": 114,
+      "question_count": 139,
+      "avg_reputation": 32147.59,
+      "median_reputation": 3106,
+      "min_reputation": 113,
+      "max_reputation": 180457,
+      "stddev_reputation": 61995.19
+    },
+    {
+      "tag": "java|maven-2",
+      "unique_users": 142,
+      "question_count": 179,
+      "avg_reputation": 30731.44,
+      "median_reputation": 7663,
+      "min_reputation": 103,
+      "max_reputation": 251590,
+      "stddev_reputation": 51463.82
+    },
+    {
+      "tag": "php|kohana",
+      "unique_users": 107,
+      "question_count": 178,
+      "avg_reputation": 29474.76,
+      "median_reputation": 4857,
+      "min_reputation": 101,
+      "max_reputation": 466549,
+      "stddev_reputation": 91402.91
+    },
+    {
+      "tag": "dart|dart-polymer",
+      "unique_users": 144,
+      "question_count": 344,
+      "avg_reputation": 28551.35,
+      "median_reputation": 2037,
+      "min_reputation": 115,
+      "max_reputation": 577795,
+      "stddev_reputation": 114017.31
+    },
+    {
+      "tag": "open-source",
+      "unique_users": 100,
+      "question_count": 104,
+      "avg_reputation": 28117.73,
+      "median_reputation": 5873,
+      "min_reputation": 132,
+      "max_reputation": 825848,
+      "stddev_reputation": 85849.28
+    },
+    {
+      "tag": "c++|c++11|rvalue-reference",
+      "unique_users": 102,
+      "question_count": 109,
+      "avg_reputation": 27695.94,
+      "median_reputation": 4573,
+      "min_reputation": 105,
+      "max_reputation": 485622,
+      "stddev_reputation": 72398.11
+    },
+    {
+      "tag": "c++|language-lawyer",
+      "unique_users": 324,
+      "question_count": 561,
+      "avg_reputation": 27502.05,
+      "median_reputation": 6308,
+      "min_reputation": 105,
+      "max_reputation": 452117,
+      "stddev_reputation": 64438.14
+    },
+    {
+      "tag": "dart|angular-dart",
+      "unique_users": 204,
+      "question_count": 378,
+      "avg_reputation": 27283.53,
+      "median_reputation": 2027,
+      "min_reputation": 101,
+      "max_reputation": 577795,
+      "stddev_reputation": 105396.52
+    },
+    {
+      "tag": "filemaker",
+      "unique_users": 134,
+      "question_count": 222,
+      "avg_reputation": 27097.54,
+      "median_reputation": 1732,
+      "min_reputation": 103,
+      "max_reputation": 337863,
+      "stddev_reputation": 84243.42
+    },
+    {
+      "tag": ".net|reflection",
+      "unique_users": 105,
+      "question_count": 113,
+      "avg_reputation": 26261.83,
+      "median_reputation": 6287,
+      "min_reputation": 167,
+      "max_reputation": 415204,
+      "stddev_reputation": 58957.26
+    },
+    {
+      "tag": "python|enums",
+      "unique_users": 115,
+      "question_count": 122,
+      "avg_reputation": 25836.76,
+      "median_reputation": 2474,
+      "min_reputation": 103,
+      "max_reputation": 349881,
+      "stddev_reputation": 70779.41
+    },
+    {
+      "tag": "css|internet-explorer-7",
+      "unique_users": 155,
+      "question_count": 164,
+      "avg_reputation": 25605.6,
+      "median_reputation": 2968,
+      "min_reputation": 122,
+      "max_reputation": 980540,
+      "stddev_reputation": 101093.13
+    },
+    {
+      "tag": "c#|.net|linq-to-sql",
+      "unique_users": 136,
+      "question_count": 156,
+      "avg_reputation": 25602.99,
+      "median_reputation": 4473,
+      "min_reputation": 111,
+      "max_reputation": 989863,
+      "stddev_reputation": 92132.2
+    },
+    {
+      "tag": "scons",
+      "unique_users": 166,
+      "question_count": 246,
+      "avg_reputation": 24491.55,
+      "median_reputation": 3198,
+      "min_reputation": 109,
+      "max_reputation": 908125,
+      "stddev_reputation": 75262.4
+    },
+    {
+      "tag": "mongodb|database",
+      "unique_users": 156,
+      "question_count": 178,
+      "avg_reputation": 24346.66,
+      "median_reputation": 2143,
+      "min_reputation": 105,
+      "max_reputation": 245100,
+      "stddev_reputation": 63208.03
+    },
+    {
+      "tag": "user-interface",
+      "unique_users": 174,
+      "question_count": 185,
+      "avg_reputation": 24190.96,
+      "median_reputation": 9540,
+      "min_reputation": 135,
+      "max_reputation": 370811,
+      "stddev_reputation": 50482.32
+    },
+    {
+      "tag": "javascript|ecmascript-5",
+      "unique_users": 170,
+      "question_count": 199,
+      "avg_reputation": 24156.7,
+      "median_reputation": 5023,
+      "min_reputation": 127,
+      "max_reputation": 329759,
+      "stddev_reputation": 52254.13
+    },
+    {
+      "tag": "visual-studio-2010|visual-studio",
+      "unique_users": 165,
+      "question_count": 181,
+      "avg_reputation": 24078.2,
+      "median_reputation": 3904,
+      "min_reputation": 101,
+      "max_reputation": 980540,
+      "stddev_reputation": 105554.47
+    },
+    {
+      "tag": "windows|winapi",
+      "unique_users": 414,
+      "question_count": 482,
+      "avg_reputation": 24026.31,
+      "median_reputation": 2835,
+      "min_reputation": 105,
+      "max_reputation": 591216,
+      "stddev_reputation": 74780.28
+    },
+    {
+      "tag": "c#|.net|performance",
+      "unique_users": 105,
+      "question_count": 110,
+      "avg_reputation": 23915.61,
+      "median_reputation": 3561,
+      "min_reputation": 105,
+      "max_reputation": 299429,
+      "stddev_reputation": 56828.98
+    },
+    {
+      "tag": "coding-style",
+      "unique_users": 157,
+      "question_count": 161,
+      "avg_reputation": 23864.83,
+      "median_reputation": 5752,
+      "min_reputation": 107,
+      "max_reputation": 330762,
+      "stddev_reputation": 51122.24
+    },
+    {
+      "tag": "visual-studio|visual-studio-2010",
+      "unique_users": 302,
+      "question_count": 332,
+      "avg_reputation": 23368.27,
+      "median_reputation": 6418,
+      "min_reputation": 105,
+      "max_reputation": 299429,
+      "stddev_reputation": 41271.9
+    },
+    {
+      "tag": "c#|.net|events",
+      "unique_users": 107,
+      "question_count": 111,
+      "avg_reputation": 23034.97,
+      "median_reputation": 3894,
+      "min_reputation": 103,
+      "max_reputation": 320860,
+      "stddev_reputation": 50913.7
+    },
+    {
+      "tag": "drupal|drupal-6",
+      "unique_users": 231,
+      "question_count": 563,
+      "avg_reputation": 22859.71,
+      "median_reputation": 4727,
+      "min_reputation": 101,
+      "max_reputation": 115826,
+      "stddev_reputation": 27300.0
+    },
+    {
+      "tag": "mercurial",
+      "unique_users": 983,
+      "question_count": 1368,
+      "avg_reputation": 22853.75,
+      "median_reputation": 5359,
+      "min_reputation": 103,
+      "max_reputation": 576904,
+      "stddev_reputation": 48215.13
+    },
+    {
+      "tag": "git|diff",
+      "unique_users": 181,
+      "question_count": 188,
+      "avg_reputation": 22796.62,
+      "median_reputation": 5390,
+      "min_reputation": 101,
+      "max_reputation": 908125,
+      "stddev_reputation": 72534.82
+    },
+    {
+      "tag": "c++|c++11|constexpr",
+      "unique_users": 134,
+      "question_count": 141,
+      "avg_reputation": 22740.61,
+      "median_reputation": 3641,
+      "min_reputation": 103,
+      "max_reputation": 371860,
+      "stddev_reputation": 55376.49
+    },
+    {
+      "tag": "language-agnostic",
+      "unique_users": 546,
+      "question_count": 592,
+      "avg_reputation": 22680.1,
+      "median_reputation": 6237,
+      "min_reputation": 103,
+      "max_reputation": 1357603,
+      "stddev_reputation": 71746.72
+    },
+    {
+      "tag": "javascript|firebug",
+      "unique_users": 128,
+      "question_count": 132,
+      "avg_reputation": 22659.55,
+      "median_reputation": 4879,
+      "min_reputation": 164,
+      "max_reputation": 466549,
+      "stddev_reputation": 55292.03
+    },
+    {
+      "tag": "html|css|xhtml",
+      "unique_users": 203,
+      "question_count": 294,
+      "avg_reputation": 22566.71,
+      "median_reputation": 3839,
+      "min_reputation": 113,
+      "max_reputation": 243120,
+      "stddev_reputation": 43318.35
+    },
+    {
+      "tag": "jquery|css-selectors",
+      "unique_users": 172,
+      "question_count": 195,
+      "avg_reputation": 22342.74,
+      "median_reputation": 4327,
+      "min_reputation": 103,
+      "max_reputation": 559793,
+      "stddev_reputation": 55008.32
+    },
+    {
+      "tag": "xml|scala",
+      "unique_users": 123,
+      "question_count": 163,
+      "avg_reputation": 22257.09,
+      "median_reputation": 5764,
+      "min_reputation": 107,
+      "max_reputation": 188236,
+      "stddev_reputation": 40614.75
+    },
+    {
+      "tag": "asp.net-mvc|routing",
+      "unique_users": 158,
+      "question_count": 175,
+      "avg_reputation": 22252.09,
+      "median_reputation": 8448,
+      "min_reputation": 135,
+      "max_reputation": 251590,
+      "stddev_reputation": 40666.79
+    },
+    {
+      "tag": "java|floating-point",
+      "unique_users": 135,
+      "question_count": 140,
+      "avg_reputation": 22170.57,
+      "median_reputation": 2025,
+      "min_reputation": 103,
+      "max_reputation": 825848,
+      "stddev_reputation": 88458.25
+    },
+    {
+      "tag": "visual-studio|visual-studio-2008",
+      "unique_users": 234,
+      "question_count": 262,
+      "avg_reputation": 22142.91,
+      "median_reputation": 9591,
+      "min_reputation": 107,
+      "max_reputation": 217581,
+      "stddev_reputation": 34766.03
+    },
+    {
+      "tag": "ruby-on-rails|ruby-on-rails-3|devise",
+      "unique_users": 225,
+      "question_count": 379,
+      "avg_reputation": 22083.77,
+      "median_reputation": 3304,
+      "min_reputation": 105,
+      "max_reputation": 141372,
+      "stddev_reputation": 36818.91
+    },
+    {
+      "tag": "fonts",
+      "unique_users": 102,
+      "question_count": 103,
+      "avg_reputation": 22047.8,
+      "median_reputation": 1618,
+      "min_reputation": 109,
+      "max_reputation": 604203,
+      "stddev_reputation": 78122.27
+    },
+    {
+      "tag": "c#|.net|system.reactive",
+      "unique_users": 119,
+      "question_count": 144,
+      "avg_reputation": 21712.73,
+      "median_reputation": 3261,
+      "min_reputation": 100,
+      "max_reputation": 187048,
+      "stddev_reputation": 42558.93
+    },
+    {
+      "tag": "unicode",
+      "unique_users": 163,
+      "question_count": 171,
+      "avg_reputation": 21662.7,
+      "median_reputation": 4391,
+      "min_reputation": 105,
+      "max_reputation": 707030,
+      "stddev_reputation": 63573.48
+    },
+    {
+      "tag": "sql|mysql|database",
+      "unique_users": 128,
+      "question_count": 145,
+      "avg_reputation": 21550.72,
+      "median_reputation": 7337,
+      "min_reputation": 103,
+      "max_reputation": 370544,
+      "stddev_reputation": 46551.16
+    },
+    {
+      "tag": "version-control",
+      "unique_users": 268,
+      "question_count": 276,
+      "avg_reputation": 21497.8,
+      "median_reputation": 5494,
+      "min_reputation": 101,
+      "max_reputation": 385646,
+      "stddev_reputation": 48904.94
+    },
+    {
+      "tag": "terminology",
+      "unique_users": 142,
+      "question_count": 150,
+      "avg_reputation": 21323.44,
+      "median_reputation": 6019,
+      "min_reputation": 105,
+      "max_reputation": 403343,
+      "stddev_reputation": 52564.7
+    },
+    {
+      "tag": "svn|version-control",
+      "unique_users": 390,
+      "question_count": 433,
+      "avg_reputation": 21042.45,
+      "median_reputation": 5117,
+      "min_reputation": 103,
+      "max_reputation": 525157,
+      "stddev_reputation": 47974.96
+    },
+    {
+      "tag": "naming-conventions",
+      "unique_users": 105,
+      "question_count": 108,
+      "avg_reputation": 21030.45,
+      "median_reputation": 5868,
+      "min_reputation": 105,
+      "max_reputation": 260707,
+      "stddev_reputation": 42603.37
+    },
+    {
+      "tag": "c#|switch-statement",
+      "unique_users": 110,
+      "question_count": 111,
+      "avg_reputation": 21029.94,
+      "median_reputation": 2709,
+      "min_reputation": 105,
+      "max_reputation": 989863,
+      "stddev_reputation": 96805.72
+    },
+    {
+      "tag": "python|coding-style",
+      "unique_users": 143,
+      "question_count": 150,
+      "avg_reputation": 21026.66,
+      "median_reputation": 4172,
+      "min_reputation": 139,
+      "max_reputation": 331320,
+      "stddev_reputation": 50462.01
+    },
+    {
+      "tag": "asp.net|visual-studio-2008",
+      "unique_users": 106,
+      "question_count": 114,
+      "avg_reputation": 20895.12,
+      "median_reputation": 4661,
+      "min_reputation": 101,
+      "max_reputation": 347715,
+      "stddev_reputation": 47810.83
+    }
+  ]
+}

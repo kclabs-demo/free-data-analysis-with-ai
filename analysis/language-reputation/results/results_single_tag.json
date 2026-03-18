@@ -1,0 +1,509 @@
+{
+  "generated_at": "2026-03-17T18:34:41.747801",
+  "filter": "users.reputation >= 100",
+  "min_unique_users": 100,
+  "tag_type": "single_tag_only",
+  "total_languages": 50,
+  "results": [
+    {
+      "tag": "open-source",
+      "unique_users": 100,
+      "question_count": 104,
+      "avg_reputation": 28117.73,
+      "median_reputation": 5873,
+      "min_reputation": 132,
+      "max_reputation": 825848,
+      "stddev_reputation": 85849.28
+    },
+    {
+      "tag": "filemaker",
+      "unique_users": 134,
+      "question_count": 222,
+      "avg_reputation": 27097.54,
+      "median_reputation": 1732,
+      "min_reputation": 103,
+      "max_reputation": 337863,
+      "stddev_reputation": 84243.42
+    },
+    {
+      "tag": "scons",
+      "unique_users": 166,
+      "question_count": 246,
+      "avg_reputation": 24491.55,
+      "median_reputation": 3198,
+      "min_reputation": 109,
+      "max_reputation": 908125,
+      "stddev_reputation": 75262.4
+    },
+    {
+      "tag": "user-interface",
+      "unique_users": 174,
+      "question_count": 185,
+      "avg_reputation": 24190.96,
+      "median_reputation": 9540,
+      "min_reputation": 135,
+      "max_reputation": 370811,
+      "stddev_reputation": 50482.32
+    },
+    {
+      "tag": "coding-style",
+      "unique_users": 157,
+      "question_count": 161,
+      "avg_reputation": 23864.83,
+      "median_reputation": 5752,
+      "min_reputation": 107,
+      "max_reputation": 330762,
+      "stddev_reputation": 51122.24
+    },
+    {
+      "tag": "mercurial",
+      "unique_users": 983,
+      "question_count": 1368,
+      "avg_reputation": 22853.75,
+      "median_reputation": 5359,
+      "min_reputation": 103,
+      "max_reputation": 576904,
+      "stddev_reputation": 48215.13
+    },
+    {
+      "tag": "language-agnostic",
+      "unique_users": 546,
+      "question_count": 592,
+      "avg_reputation": 22680.1,
+      "median_reputation": 6237,
+      "min_reputation": 103,
+      "max_reputation": 1357603,
+      "stddev_reputation": 71746.72
+    },
+    {
+      "tag": "fonts",
+      "unique_users": 102,
+      "question_count": 103,
+      "avg_reputation": 22047.8,
+      "median_reputation": 1618,
+      "min_reputation": 109,
+      "max_reputation": 604203,
+      "stddev_reputation": 78122.27
+    },
+    {
+      "tag": "unicode",
+      "unique_users": 163,
+      "question_count": 171,
+      "avg_reputation": 21662.7,
+      "median_reputation": 4391,
+      "min_reputation": 105,
+      "max_reputation": 707030,
+      "stddev_reputation": 63573.48
+    },
+    {
+      "tag": "version-control",
+      "unique_users": 268,
+      "question_count": 276,
+      "avg_reputation": 21497.8,
+      "median_reputation": 5494,
+      "min_reputation": 101,
+      "max_reputation": 385646,
+      "stddev_reputation": 48904.94
+    },
+    {
+      "tag": "terminology",
+      "unique_users": 142,
+      "question_count": 150,
+      "avg_reputation": 21323.44,
+      "median_reputation": 6019,
+      "min_reputation": 105,
+      "max_reputation": 403343,
+      "stddev_reputation": 52564.7
+    },
+    {
+      "tag": "naming-conventions",
+      "unique_users": 105,
+      "question_count": 108,
+      "avg_reputation": 21030.45,
+      "median_reputation": 5868,
+      "min_reputation": 105,
+      "max_reputation": 260707,
+      "stddev_reputation": 42603.37
+    },
+    {
+      "tag": "nunit",
+      "unique_users": 124,
+      "question_count": 137,
+      "avg_reputation": 20028.8,
+      "median_reputation": 4847,
+      "min_reputation": 101,
+      "max_reputation": 370811,
+      "stddev_reputation": 45022.58
+    },
+    {
+      "tag": "project-management",
+      "unique_users": 152,
+      "question_count": 157,
+      "avg_reputation": 19681.77,
+      "median_reputation": 5880,
+      "min_reputation": 107,
+      "max_reputation": 215144,
+      "stddev_reputation": 31023.59
+    },
+    {
+      "tag": "gnu-make",
+      "unique_users": 133,
+      "question_count": 166,
+      "avg_reputation": 19588.88,
+      "median_reputation": 1707,
+      "min_reputation": 107,
+      "max_reputation": 403343,
+      "stddev_reputation": 59591.43
+    },
+    {
+      "tag": "maven-2",
+      "unique_users": 224,
+      "question_count": 297,
+      "avg_reputation": 19299.25,
+      "median_reputation": 5443,
+      "min_reputation": 103,
+      "max_reputation": 576904,
+      "stddev_reputation": 48449.64
+    },
+    {
+      "tag": "fish",
+      "unique_users": 158,
+      "question_count": 216,
+      "avg_reputation": 18792.28,
+      "median_reputation": 4203,
+      "min_reputation": 107,
+      "max_reputation": 228614,
+      "stddev_reputation": 42889.83
+    },
+    {
+      "tag": "programming-languages",
+      "unique_users": 294,
+      "question_count": 306,
+      "avg_reputation": 18619.92,
+      "median_reputation": 5116,
+      "min_reputation": 103,
+      "max_reputation": 313331,
+      "stddev_reputation": 37327.09
+    },
+    {
+      "tag": "visual-studio-2008",
+      "unique_users": 406,
+      "question_count": 489,
+      "avg_reputation": 17890.66,
+      "median_reputation": 5374,
+      "min_reputation": 101,
+      "max_reputation": 370811,
+      "stddev_reputation": 35497.3
+    },
+    {
+      "tag": "testing",
+      "unique_users": 176,
+      "question_count": 188,
+      "avg_reputation": 17812.43,
+      "median_reputation": 2498,
+      "min_reputation": 100,
+      "max_reputation": 525157,
+      "stddev_reputation": 53686.02
+    },
+    {
+      "tag": "elisp",
+      "unique_users": 105,
+      "question_count": 144,
+      "avg_reputation": 17739.1,
+      "median_reputation": 3639,
+      "min_reputation": 111,
+      "max_reputation": 796192,
+      "stddev_reputation": 70307.41
+    },
+    {
+      "tag": "licensing",
+      "unique_users": 103,
+      "question_count": 105,
+      "avg_reputation": 17361.18,
+      "median_reputation": 4548,
+      "min_reputation": 123,
+      "max_reputation": 299429,
+      "stddev_reputation": 38939.9
+    },
+    {
+      "tag": "url",
+      "unique_users": 137,
+      "question_count": 138,
+      "avg_reputation": 16697.51,
+      "median_reputation": 3254,
+      "min_reputation": 101,
+      "max_reputation": 315204,
+      "stddev_reputation": 40976.08
+    },
+    {
+      "tag": "nuget",
+      "unique_users": 345,
+      "question_count": 390,
+      "avg_reputation": 16415.68,
+      "median_reputation": 4769,
+      "min_reputation": 103,
+      "max_reputation": 702533,
+      "stddev_reputation": 45518.91
+    },
+    {
+      "tag": "unit-testing",
+      "unique_users": 327,
+      "question_count": 346,
+      "avg_reputation": 16332.99,
+      "median_reputation": 4857,
+      "min_reputation": 113,
+      "max_reputation": 385646,
+      "stddev_reputation": 33781.65
+    },
+    {
+      "tag": "svn",
+      "unique_users": 2165,
+      "question_count": 2620,
+      "avg_reputation": 16224.93,
+      "median_reputation": 3812,
+      "min_reputation": 100,
+      "max_reputation": 525157,
+      "stddev_reputation": 42100.57
+    },
+    {
+      "tag": ".net",
+      "unique_users": 1380,
+      "question_count": 1767,
+      "avg_reputation": 16198.27,
+      "median_reputation": 4119,
+      "min_reputation": 101,
+      "max_reputation": 846586,
+      "stddev_reputation": 40047.77
+    },
+    {
+      "tag": "security",
+      "unique_users": 313,
+      "question_count": 329,
+      "avg_reputation": 15983.9,
+      "median_reputation": 2913,
+      "min_reputation": 105,
+      "max_reputation": 825848,
+      "stddev_reputation": 57364.57
+    },
+    {
+      "tag": "http",
+      "unique_users": 376,
+      "question_count": 406,
+      "avg_reputation": 15784.8,
+      "median_reputation": 2912,
+      "min_reputation": 101,
+      "max_reputation": 627594,
+      "stddev_reputation": 45841.9
+    },
+    {
+      "tag": "zsh",
+      "unique_users": 288,
+      "question_count": 367,
+      "avg_reputation": 15742.16,
+      "median_reputation": 3714,
+      "min_reputation": 101,
+      "max_reputation": 460413,
+      "stddev_reputation": 45002.02
+    },
+    {
+      "tag": "database-design",
+      "unique_users": 641,
+      "question_count": 720,
+      "avg_reputation": 15738.53,
+      "median_reputation": 2755,
+      "min_reputation": 101,
+      "max_reputation": 261176,
+      "stddev_reputation": 38289.57
+    },
+    {
+      "tag": "linq-to-sql",
+      "unique_users": 480,
+      "question_count": 679,
+      "avg_reputation": 15654.77,
+      "median_reputation": 4619,
+      "min_reputation": 101,
+      "max_reputation": 251590,
+      "stddev_reputation": 30707.22
+    },
+    {
+      "tag": "msbuild",
+      "unique_users": 575,
+      "question_count": 733,
+      "avg_reputation": 15623.89,
+      "median_reputation": 4730,
+      "min_reputation": 103,
+      "max_reputation": 341085,
+      "stddev_reputation": 30038.8
+    },
+    {
+      "tag": "winapi",
+      "unique_users": 558,
+      "question_count": 799,
+      "avg_reputation": 15604.48,
+      "median_reputation": 2136,
+      "min_reputation": 101,
+      "max_reputation": 591216,
+      "stddev_reputation": 48566.59
+    },
+    {
+      "tag": "nhibernate",
+      "unique_users": 710,
+      "question_count": 1159,
+      "avg_reputation": 15350.02,
+      "median_reputation": 3905,
+      "min_reputation": 103,
+      "max_reputation": 251590,
+      "stddev_reputation": 33258.96
+    },
+    {
+      "tag": "gdb",
+      "unique_users": 373,
+      "question_count": 479,
+      "avg_reputation": 15215.38,
+      "median_reputation": 2633,
+      "min_reputation": 102,
+      "max_reputation": 331933,
+      "stddev_reputation": 45042.52
+    },
+    {
+      "tag": "email",
+      "unique_users": 167,
+      "question_count": 170,
+      "avg_reputation": 14872.16,
+      "median_reputation": 2105,
+      "min_reputation": 103,
+      "max_reputation": 216524,
+      "stddev_reputation": 37282.7
+    },
+    {
+      "tag": "coffeescript",
+      "unique_users": 435,
+      "question_count": 542,
+      "avg_reputation": 14846.46,
+      "median_reputation": 4825,
+      "min_reputation": 125,
+      "max_reputation": 216524,
+      "stddev_reputation": 26331.19
+    },
+    {
+      "tag": "resharper",
+      "unique_users": 215,
+      "question_count": 242,
+      "avg_reputation": 14837.58,
+      "median_reputation": 5056,
+      "min_reputation": 101,
+      "max_reputation": 228856,
+      "stddev_reputation": 25845.93
+    },
+    {
+      "tag": "emacs",
+      "unique_users": 1172,
+      "question_count": 1929,
+      "avg_reputation": 14651.73,
+      "median_reputation": 3890,
+      "min_reputation": 100,
+      "max_reputation": 348928,
+      "stddev_reputation": 31858.02
+    },
+    {
+      "tag": "vim",
+      "unique_users": 4088,
+      "question_count": 6763,
+      "avg_reputation": 14380.73,
+      "median_reputation": 3317,
+      "min_reputation": 101,
+      "max_reputation": 439004,
+      "stddev_reputation": 31018.92
+    },
+    {
+      "tag": "windbg",
+      "unique_users": 162,
+      "question_count": 244,
+      "avg_reputation": 14164.07,
+      "median_reputation": 2953,
+      "min_reputation": 121,
+      "max_reputation": 101939,
+      "stddev_reputation": 22291.19
+    },
+    {
+      "tag": "sbt",
+      "unique_users": 377,
+      "question_count": 553,
+      "avg_reputation": 13815.44,
+      "median_reputation": 3875,
+      "min_reputation": 101,
+      "max_reputation": 292064,
+      "stddev_reputation": 35317.05
+    },
+    {
+      "tag": "web-services",
+      "unique_users": 257,
+      "question_count": 274,
+      "avg_reputation": 13521.09,
+      "median_reputation": 2938,
+      "min_reputation": 101,
+      "max_reputation": 260707,
+      "stddev_reputation": 31868.26
+    },
+    {
+      "tag": "git",
+      "unique_users": 13787,
+      "question_count": 20292,
+      "avg_reputation": 13485.98,
+      "median_reputation": 3267,
+      "min_reputation": 100,
+      "max_reputation": 825848,
+      "stddev_reputation": 34085.91
+    },
+    {
+      "tag": "cookies",
+      "unique_users": 147,
+      "question_count": 153,
+      "avg_reputation": 13230.11,
+      "median_reputation": 1884,
+      "min_reputation": 105,
+      "max_reputation": 313961,
+      "stddev_reputation": 34810.9
+    },
+    {
+      "tag": "memcached",
+      "unique_users": 125,
+      "question_count": 139,
+      "avg_reputation": 13154.91,
+      "median_reputation": 3866,
+      "min_reputation": 103,
+      "max_reputation": 251590,
+      "stddev_reputation": 31361.01
+    },
+    {
+      "tag": "cocoa-touch",
+      "unique_users": 118,
+      "question_count": 198,
+      "avg_reputation": 13142.79,
+      "median_reputation": 4311,
+      "min_reputation": 121,
+      "max_reputation": 167819,
+      "stddev_reputation": 23508.72
+    },
+    {
+      "tag": "netbeans",
+      "unique_users": 329,
+      "question_count": 358,
+      "avg_reputation": 13141.6,
+      "median_reputation": 2485,
+      "min_reputation": 101,
+      "max_reputation": 274532,
+      "stddev_reputation": 37065.81
+    },
+    {
+      "tag": "floating-point",
+      "unique_users": 110,
+      "question_count": 116,
+      "avg_reputation": 13090.71,
+      "median_reputation": 1657,
+      "min_reputation": 106,
+      "max_reputation": 591216,
+      "stddev_reputation": 56474.24
+    }
+  ]
+}
